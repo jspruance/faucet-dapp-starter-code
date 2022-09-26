@@ -2,7 +2,7 @@ import "./App.css";
 
 function App() {
   return (
-    <body>
+    <div>
       <nav className="navbar">
         <div className="container">
           <div className="navbar-brand">
@@ -49,7 +49,7 @@ function App() {
           </div>
         </div>
       </section>
-    </body>
+    </div>
   );
 }
 
